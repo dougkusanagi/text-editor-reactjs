@@ -3,8 +3,6 @@ WIP Simple Text Editor using ReactJs and FileSystem Access API
 
 <a target="_blank" href="https://dougkusanagi.github.io/text-editor-reactjs/">Try it</a>
 
-### Ajustes e melhorias
-
 <h2>ToDo</h2>
 
 - [x] List files and directorys in explorer
