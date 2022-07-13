@@ -1,5 +1,7 @@
 # text-editor-reactjs
 
+Early Project Phase
+
 <img src="https://github.com/dougkusanagi/text-editor-reactjs/blob/main/screenshot.png?raw=true" />
 
 >WIP Simple Text Editor in ReactJs using FileSystem Access API
