@@ -1,10 +1,10 @@
-import DirList from "./DirList";
+import SideExplorer from "./SideExplorer";
 
 function App() {
   return (
     <div className="h-screen">
       <div className="flex h-full">
-        <DirList></DirList>
+        <SideExplorer></SideExplorer>
 
         <div className="flex flex-1">
           <textarea
