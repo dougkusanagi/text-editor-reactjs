@@ -1,5 +1,5 @@
 # text-editor-reactjs
-WIP Simple Text Editor using ReactJs and FileSystem Access API
+WIP Simple Text Editor in ReactJs using FileSystem Access API
 
 <a target="_blank" href="https://dougkusanagi.github.io/text-editor-reactjs/">Try it</a>
 
